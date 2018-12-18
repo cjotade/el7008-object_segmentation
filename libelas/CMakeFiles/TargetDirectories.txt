@@ -1,0 +1,3 @@
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/CMakeFiles/rebuild_cache.dir
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/CMakeFiles/edit_cache.dir
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/CMakeFiles/elas.dir
