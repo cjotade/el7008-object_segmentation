@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/src/elas.h
+iostream
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+vector
+-
+emmintrin.h
+-
+stdint.h
+-
+timer.h
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/src/timer.h
+
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/src/image.h
+cstdlib
+-
+climits
+-
+cstring
+-
+fstream
+-
+
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/src/main.cpp
+numeric
+-
+algorithm
+-
+string.h
+-
+string
+-
+iostream
+-
+elas.h
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/src/elas.h
+image.h
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/src/image.h
+sys/types.h
+-
+dirent.h
+-
+
+/home/camilojd/Universidad/Primavera 2018/EL7008/proyecto/libelas/src/timer.h
+iostream
+-
+iomanip
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+vector
+-
+string
+-
+sys/time.h
+-
+stdint.h
+-
+
