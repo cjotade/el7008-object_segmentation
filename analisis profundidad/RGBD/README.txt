@@ -1,24 +1,22 @@
 Autor: Camilo Jara Do Nascimento
 
-######################################################################## Package for segmentation task #############################################################################
+#################################################### Package for segmentation task ###################################
 
-									    Important Folders:
-====================================================================================================================================================================================
+   						    Important Folders:
+=============================================================================================================================
 src: Methods that calculate the disparity map (more info in README ELAS COMMAND.txt)
 
 methods:
 	- imagesToPgm.cpp: transform the images from jpg to pgm (you can also change jpg to another format, but pgm is needed to calculate the disparty maps)
 	- selectDisparitys.cpp: select the disparitys images from its standard desviation given a threshold 
 	- segmentationImgMix.cpp: segments the objects from a given image.
-====================================================================================================================================================================================
+=============================================================================================================================
 
-
-
-									    Important READMES
-====================================================================================================================================================================================
+						    Important READMES
+=============================================================================================================================
 1) ./ENTREGABLES/analisis profundidad/RGBD/libelas/README.TXT: use "cmake .", "make" for compile libelas package so then you can elas command (see 3)
 
-====================================================================================================================================================================================
+=============================================================================================================================
 2) ./ENTREGABLES/analisis profundidad/RGBD/libelas/README ELAS COMMAND.txt: the elas commands
 In order to run the disparity map calculus just do:
 
@@ -57,4 +55,4 @@ segmentationImgMix.cpp:
 	- threshCompIOU2Rects: threshold used to set the min of the comparison between actualRect and the previous one
 
 
-====================================================================================================================================================================================
+============================================================================================================================
