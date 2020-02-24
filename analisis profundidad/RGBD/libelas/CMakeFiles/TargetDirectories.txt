@@ -1,0 +1,3 @@
+/home/camilojd/Universidad/Primavera 2018/EL7008/ENTREGABLES/analisis profundidad/LIBELAS/libelas/CMakeFiles/rebuild_cache.dir
+/home/camilojd/Universidad/Primavera 2018/EL7008/ENTREGABLES/analisis profundidad/LIBELAS/libelas/CMakeFiles/edit_cache.dir
+/home/camilojd/Universidad/Primavera 2018/EL7008/ENTREGABLES/analisis profundidad/LIBELAS/libelas/CMakeFiles/elas.dir
